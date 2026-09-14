@@ -1,0 +1,53 @@
+# SecuroExam - Daftar aplikasi terlarang
+# Satu paket per baris. Baris diawali '#' = komentar.
+# Edit file ini + commit = daftar baru berlaku pada semua perangkat
+# saat ComplianceActivity di-refresh (cache diperbarui otomatis).
+
+# === AI Chatbot ===
+com.openai.chatgpt
+com.microsoft.copilot
+com.deepseek.chat
+ai.perplexity.app.android
+ai.x.grok
+com.facebook.stella
+com.larus.wolf
+com.google.android.apps.bard
+com.microsoft.bing
+
+# === Auto-Clicker & Automasi ===
+com.truedevelopersstudio.automaticclicker.autoclicker
+com.arlosoft.macrodroid
+com.llamalab.automate
+net.dinglisch.android.taskerm
+com.joaomgcd.autoinput
+
+# === Screen Recorder ===
+com.duapps.recorder
+com.hecorat.screenrecorder.free
+com.miui.screenrecorder
+
+# === Remote Desktop / Mirroring ===
+com.anydesk.anydeskandroid
+com.teamviewer.teamviewer.market.mobile
+com.google.android.apps.remotedesktop
+com.microsoft.rdc.androidx
+
+# === Dual Space / Clone App ===
+com.lbe.parallel.intl
+com.ludashi.dualspace
+com.excelliance.dualaid
+
+# === Split Screen & Floating ===
+comspli.exaspli.splitscspli
+com.maika.floatee
+com.jack850628.floatwindow
+com.artds.split.dual.screen.nb
+net.geekstools.floatshort.PRO
+com.applay.overlay
+com.farmerbb.taskbar
+com.split.screen
+com.split.screen.shortcut
+
+# === Cheat Tools ===
+cz.rdq.Cheatingtools
+com.multitaskingmobile.Cheatingapps
