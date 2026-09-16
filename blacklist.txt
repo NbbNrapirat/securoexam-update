@@ -24,7 +24,6 @@ com.joaomgcd.autoinput
 # === Screen Recorder ===
 com.duapps.recorder
 com.hecorat.screenrecorder.free
-com.miui.screenrecorder
 
 # === Remote Desktop / Mirroring ===
 com.anydesk.anydeskandroid
