@@ -13,6 +13,9 @@ com.facebook.stella
 com.larus.wolf
 com.google.android.apps.bard
 com.microsoft.bing
+com.exam.exam4gtg
+com.dekikurnia.exambro
+info.woodsmall.calculator
 
 # === Auto-Clicker & Automasi ===
 com.truedevelopersstudio.automaticclicker.autoclicker
@@ -35,6 +38,10 @@ com.microsoft.rdc.androidx
 com.lbe.parallel.intl
 com.ludashi.dualspace
 com.excelliance.dualaid
+com.dualspace.multispace.android
+com.dualspace.multispace.androidx
+com.strong.love_edge8
+arun.com.chromer
 
 # === Split Screen & Floating ===
 comspli.exaspli.splitscspli
@@ -46,6 +53,15 @@ com.applay.overlay
 com.farmerbb.taskbar
 com.split.screen
 com.split.screen.shortcut
+com.lwi.android.flapps
+com.xynderous.vatole.floattube
+com.farmerbb.taskbar
+com.screenx.window.splitscreen.launcher
+splitscreen.dualappaccess
+com.split.screen.shortcut.overview.accessibility.notification
+com.fb.splitscreenlauncher
+com.ryodev.splitscreen
+com.ccssoftwareinc.splitscreenlauncher
 
 # === Cheat Tools ===
 cz.rdq.Cheatingtools
