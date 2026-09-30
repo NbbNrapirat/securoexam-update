@@ -1,6 +1,6 @@
 {
-  "minVersionCode": 6,
-  "latestVersionName": "6.0",
+  "minVersionCode": 5,
+  "latestVersionName": "5.0",
   "message": "Aplikasi sudah versi terbaru.",
   "playUrl": "",
   "apkUrl": "https://github.com/NbbNrapirat/securoexam-update/releases/latest/download/securoexam.apk"
